@@ -17,9 +17,10 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Welcome to "+getName()+ ". Demo On Maven Build Tool !! Today Date is:  , We are going to learn All DevOps Tools.."
-				+ getLocalCurrentDate());
-
+    System.out.println("Hello Welcome to " + getName() +
+        ". Demo On Maven Build Tool !! Today Date is: " +
+        getLocalCurrentDate() +
+        ", We are going to learn all DevOps Tools step-by-step");
 	}
 
 	private static Date getLocalCurrentDate() {

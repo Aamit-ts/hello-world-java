@@ -17,7 +17,7 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Welcome to "+getName()+ ". Demo On Maven Build Tool !! Today Date is:  "
+		System.out.println("Hello Welcome to "+getName()+ ". Demo On Maven Build Tool !! Today Date is:  , We are going to learn All DevOps Tools.."
 				+ getLocalCurrentDate());
 
 	}
@@ -29,7 +29,7 @@ public class HelloWorld {
 
 
 	public static String getName() {
-		String name = "Rushi Technologies";
+		String name = "NINJA TECHNOLOGIES";
 		return name;
 	}
 
